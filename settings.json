@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "horse.fi.freemcserver.net",
-    "port": 31817,
+    "ip": "fruits_smp.aternos.me",
+    "port": 49994,
     "version": "",
     "try-creative": false
   },
